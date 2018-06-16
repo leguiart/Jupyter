@@ -1,0 +1,1 @@
+Repository for jupyter notebook exercices on machine learning and data science
